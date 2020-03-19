@@ -20,10 +20,11 @@ Laravel new projectName
 composer require narendravaghela/bitly-client
 
 ## Go to Controller 
-
-add following command in the top of the code,
-
 <?
 
 use Bitly\BitlyClient;
+
+
+add following command in the top of the code,
+
 
